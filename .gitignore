@@ -8,7 +8,7 @@
 .idea/dictionaries
 .idea/vcs.xml
 .idea/jsLibraryMappings.xml
-
+.idea/*
 # Sensitive or high-churn files:
 .idea/dataSources.ids
 .idea/dataSources.xml
@@ -58,3 +58,5 @@ fabric.properties
 hs_err_pid*
 
 # Created by .ignore support plugin (hsz.mobi)
+/target/
+/file-service.iml
